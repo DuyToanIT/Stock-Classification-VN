@@ -1,0 +1,4 @@
+<DTYYYYMMDD>,<Ticker>,<OpenFixed>,<HighFixed>,<LowFixed>,<CloseFixed>,<Volume>,<Open>,<High>,<Low>,<Close>,<VolumeDeal>,<VolumeFB>,<VolumeFS>
+20170620,BSD,43.0,43.0,43.0,43.0,100,43.0,43.0,43.0,43.0,0,0,0
+20170607,BSD,38.5,38.5,38.5,38.5,100,40.0,40.0,40.0,40.0,0,0,0
+20170522,BSD,38.5,38.5,38.5,38.5,100,40.0,40.0,40.0,40.0,0,0,0

@@ -1,0 +1,4 @@
+<DTYYYYMMDD>,<Ticker>,<OpenFixed>,<HighFixed>,<LowFixed>,<CloseFixed>,<Volume>,<Open>,<High>,<Low>,<Close>,<VolumeDeal>,<VolumeFB>,<VolumeFS>
+20170623,CGV,13.1,13.1,13.1,13.1,100.0,13.1,13.1,13.1,13.1,0.0,0.0,0.0
+20170624,CGV,13.9,13.9,12.95,12.95,,,,,,,,
+20170625,CGV,14.3,14.3,12.875,12.875,,,,,,,,

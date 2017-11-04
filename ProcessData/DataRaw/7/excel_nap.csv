@@ -1,0 +1,4 @@
+<DTYYYYMMDD>,<Ticker>,<OpenFixed>,<HighFixed>,<LowFixed>,<CloseFixed>,<Volume>,<Open>,<High>,<Low>,<Close>,<VolumeDeal>,<VolumeFB>,<VolumeFS>
+20170525,NAP,13.1,13.1,13.1,13.1,2900,13.1,13.1,13.1,13.1,0,0,0
+20170427,NAP,11.4,11.4,11.4,11.4,2700,11.4,11.4,11.4,11.4,0,0,0
+20161216,NAP,11.4,11.4,11.4,11.4,4500,11.4,11.4,11.4,11.4,0,0,0

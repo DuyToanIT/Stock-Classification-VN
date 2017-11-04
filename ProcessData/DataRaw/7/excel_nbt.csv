@@ -1,0 +1,4 @@
+<DTYYYYMMDD>,<Ticker>,<OpenFixed>,<HighFixed>,<LowFixed>,<CloseFixed>,<Volume>,<Open>,<High>,<Low>,<Close>,<VolumeDeal>,<VolumeFB>,<VolumeFS>
+20170217,NBT,6.44,6.44,6.44,6.44,6400,7.0,7.0,7.0,7.0,0,0,0
+20161017,NBT,9.2,9.2,9.2,9.2,10000,10.0,10.0,10.0,10.0,0,0,0
+20161014,NBT,9.2,9.2,9.2,9.2,15000,10.0,10.0,10.0,10.0,0,0,0

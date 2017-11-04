@@ -1,0 +1,4 @@
+<DTYYYYMMDD>,<Ticker>,<OpenFixed>,<HighFixed>,<LowFixed>,<CloseFixed>,<Volume>,<Open>,<High>,<Low>,<Close>,<VolumeDeal>,<VolumeFB>,<VolumeFS>
+20170622,AFC,18.7,18.7,18.7,18.7,100,18.7,18.7,18.7,18.7,0,0,0
+20170621,AFC,16.3,16.3,16.3,16.3,100,16.3,16.3,16.3,16.3,0,0,0
+20170614,AFC,14.2,14.2,14.2,14.2,100,14.2,14.2,14.2,14.2,0,0,0

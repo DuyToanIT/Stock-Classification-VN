@@ -1,0 +1,3 @@
+<DTYYYYMMDD>,<Ticker>,<OpenFixed>,<HighFixed>,<LowFixed>,<CloseFixed>,<Volume>,<Open>,<High>,<Low>,<Close>,<VolumeDeal>,<VolumeFB>,<VolumeFS>
+20170613,VIM,11.0,11.0,11.0,11.0,1000,11.0,11.0,11.0,11.0,0,0,0
+20170612,VIM,10.0,10.0,10.0,10.0,2000,10.0,10.0,10.0,10.0,0,0,0
